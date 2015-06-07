@@ -1,0 +1,8 @@
+D:\GitHub\Projekt_ania\Projekt_ania\Projekt_ania\bin\Debug\Projekt_ania.exe.config
+D:\GitHub\Projekt_ania\Projekt_ania\Projekt_ania\bin\Debug\Projekt_ania.exe
+D:\GitHub\Projekt_ania\Projekt_ania\Projekt_ania\bin\Debug\Projekt_ania.pdb
+D:\GitHub\Projekt_ania\Projekt_ania\Projekt_ania\obj\Debug\Badanie_Pamiec.csprojResolveAssemblyReference.cache
+D:\GitHub\Projekt_ania\Projekt_ania\Projekt_ania\obj\Debug\Projekt_ania.Properties.Resources.resources
+D:\GitHub\Projekt_ania\Projekt_ania\Projekt_ania\obj\Debug\Badanie_Pamiec.csproj.GenerateResource.Cache
+D:\GitHub\Projekt_ania\Projekt_ania\Projekt_ania\obj\Debug\Projekt_ania.exe
+D:\GitHub\Projekt_ania\Projekt_ania\Projekt_ania\obj\Debug\Projekt_ania.pdb
